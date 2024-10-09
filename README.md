@@ -1,6 +1,6 @@
 # jpa01-rushil-x-gupta
 
-Deployed at: https://jpa01-rushil-x-gupta.dokku-02.cs.ucsb.edu/
+Deployed at: http://jpa01-rushil-x-gupta.dokku-02.cs.ucsb.edu/
 
 
 # About this repo
